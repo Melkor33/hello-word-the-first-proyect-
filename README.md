@@ -5,4 +5,7 @@ Este es mi primer commit
 Alteraciones segundo ejercicio de programación 
 BLABLABLA 
 NUEVA LINEA 
-CHACHACHA algo 
+CHACHACHA algo
+
+
+### este cambio lo realice yo.
